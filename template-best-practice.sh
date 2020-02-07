@@ -17,3 +17,6 @@ set -o nounset                                # detect uninitialised variables (
 # _function_name () --> for name convention
 # local operator to make variable only in the function
 # assign variables name e.g. local myvar=${$1}
+
+
+#include external script is with --> source FILENAME
